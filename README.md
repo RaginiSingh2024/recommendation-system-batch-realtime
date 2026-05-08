@@ -12,6 +12,12 @@ A scalable recommendation system that combines **batch processing (historical da
 
 ---
 
+## Google Collab Link
+https://colab.research.google.com/drive/1ATwTq-IpWsMXiP4KwfenN15wPCPUhNOo?usp=sharing
+
+## Project Documentation Link
+https://docs.google.com/document/d/1iXcxE_B0xNkAIaRB9XG5JYcLXlYxifzzyRJKqAmswH4/edit?usp=sharing
+
 ## 📌 Problem Statement
 
 Design a recommendation system similar to Netflix/Amazon that:
